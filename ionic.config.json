@@ -1,0 +1,7 @@
+{
+  "name": "ava_form",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
